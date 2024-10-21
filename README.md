@@ -3,7 +3,7 @@
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
-    <title>Moja Strona</title>
+    Moja Strona
 </head>
 <body>
     <h1>Witaj na Mojej Stronie!</h1>
